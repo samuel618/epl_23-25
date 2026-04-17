@@ -78,14 +78,6 @@ The notebook focuses on:
 - Clean sheet and failed-to-score rate rankings
 - Home-vs-away points gap rankings
 
-## How to Run
-1. Open the notebook:
-   - `notebook/sports_analysis/sports_analysis_epl_23-24_24-25.ipynb`
-2. Run all cells from top to bottom.
-3. Ensure the data files exist at:
-   - `raw/EPL/EPL_23-24.csv`
-   - `raw/EPL/EPL_24-25.csv`
-
 
 ```
 
